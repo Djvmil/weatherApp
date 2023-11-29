@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="temp">🌡 TEMP</string>
+    <string name="feels_like">🌡 RESSENTI</string>
+    <string name="cloudiness">☁ NUAGE</string>
+    <string name="humidity">💧 HUMIDITÉ</string>
+    <string name="sunrise">🌇 LEVER DE SOLEIL</string>
+    <string name="sunset">🌆 COUCHER DE SOLEIL</string>
+    <string name="wind">🌬 VENT</string>
+    <string name="metric">KM</string>
+    <string name="pressure">⏲ PRESSION</string>
+    <string name="degree">°</string>
+
+    <string name="topbar_title">Météo</string>
+    <string name="weather_city_title">Villes</string>
+    <string name="error_title">OOOOPS!!!</string>
+
+    <string-array name="waiting_msg">
+        <item>Nous téléchargeons les données…</item>
+        <item>C’est presque fini…</item>
+        <item>Plus que quelques secondes avant d’avoir le résultat…</item>
+    </string-array>
+</resources>
