@@ -20,6 +20,8 @@ import com.side_project.weatherapp.ui.search.MoreCityViewModel
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 import dagger.hilt.android.AndroidEntryPoint
 
+//2nd commit
+
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
