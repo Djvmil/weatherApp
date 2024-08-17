@@ -26,6 +26,7 @@ import dagger.hilt.android.AndroidEntryPoint
 //fix bug 4e commit
 //fix bug 4e commit 2nd
 //5e commit
+//6e commit
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
