@@ -21,6 +21,7 @@ import com.google.accompanist.systemuicontroller.rememberSystemUiController
 import dagger.hilt.android.AndroidEntryPoint
 
 //2nd commit
+//3e commit
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
