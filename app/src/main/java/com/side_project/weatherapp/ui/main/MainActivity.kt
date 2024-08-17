@@ -28,6 +28,7 @@ import dagger.hilt.android.AndroidEntryPoint
 //5e commit
 //6e commit
 //7e commit
+//8e commit
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
